@@ -2,7 +2,7 @@
 - 👀 I’m interested in animes & films in general
 - 🌱 I’m currently learning electrical engineering 
 - 💞️ I’m looking to collaborate on power engineering development
-- 📫 Reach me with this email: muhammadriyansyahgani@gmail.com
+- 📫 Reach me with this email: muhammadriyansyahgani@gmail.com or reach me in my social media @riyansyahgani
 
 <!---
 riyansyahgani/riyansyahgani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
